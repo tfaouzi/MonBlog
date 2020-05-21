@@ -51,7 +51,7 @@ catch (Exception $e)
                 
             </div> <!-- #contenu -->
             <footer id="piedBlog">
-                Blog réalisé avec PHP 7.3.1, HTML5 et CSS3.
+                Blog réalisé avec PHP 7.3.2, HTML5 et CSS3.
             </footer>
  </div> <!-- #global -->
 </body>
